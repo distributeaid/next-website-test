@@ -25,7 +25,7 @@ const page = () => {
         <HeroSection />
       </Section>
       <Section>
-        <JoinTeam/>
+        <JoinTeam />
       </Section>
 
       <Section>
