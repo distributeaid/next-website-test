@@ -2,6 +2,7 @@ import HeroSection from "@/components/tech/HeroSection";
 import SponsorSection from "@/components/tech/SponsorSection";
 import OpenSourceExplorersSection from "@/components/tech/OpenSourceExporersSection";
 import { Box, Flex, Section } from "@radix-ui/themes";
+import { WorkingSection } from "@/components/tech/WorkingSection";
 
 const page = () => {
   return (
@@ -26,6 +27,9 @@ const page = () => {
 
       <Section>
         <OpenSourceExplorersSection />
+      </Section>
+      <Section>
+        <WorkingSection />
       </Section>
       <Section>
         <SponsorSection />
