@@ -7148,7 +7148,7 @@ __metadata:
     react-countup: "npm:^6.5.3"
     react-dom: "npm:19.0.0"
     react-icons: "npm:^5.4.0"
-    react-markdown: "npm:^9.0.3"
+    react-markdown: "npm:^10.0.0"
     react-modal: "npm:^3.16.3"
     sharp: "npm:^0.33.5"
     tailwindcss: "npm:3.4.17"
@@ -7889,9 +7889,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"react-markdown@npm:^9.0.3":
-  version: 9.1.0
-  resolution: "react-markdown@npm:9.1.0"
+"react-markdown@npm:^10.0.0":
+  version: 10.0.0
+  resolution: "react-markdown@npm:10.0.0"
   dependencies:
     "@types/hast": "npm:^3.0.0"
     "@types/mdast": "npm:^4.0.0"
@@ -7907,7 +7907,7 @@ __metadata:
   peerDependencies:
     "@types/react": ">=18"
     react: ">=18"
-  checksum: 10c0/5bd645d39379f776d64588105f4060c390c3c8e4ff048552c9fa0ad31b756bb3ff7c11081542dc58d840ccf183a6dd4fd4d4edab44d8c24dee8b66551a5fd30d
+  checksum: 10c0/9846efb451f5c9a47371458c81117c03bc75d51e11917a8ae2a43b3902624aa29534124edd635b81f421111ab4c7978a904ad49199d010d2bbd50c42674eeae6
   languageName: node
   linkType: hard
 
